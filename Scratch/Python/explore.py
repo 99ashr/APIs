@@ -5,14 +5,14 @@ client = Client("AC0b57db73de30c7a002c67af0b8c9713e",
 
 # & GET all the message sent by your number
 
-# for msg in client.messages.list():
-#     print(msg.body)
+for msg in client.messages.list():
+    print(msg.body)
 
 # & Create a new message through twilio account
-msg = client.messages.create(
-    to="+919001079493",
-    from_="+15105925067",
-    body="Hello from Python!"
-)
+# msg = client.messages.create(
+#     to="+919001079493",
+#     from_="+15105925067",
+#     body="Hello from Python!"
+# )
 
 # print(f"Created a new message: {msg.sid}")
