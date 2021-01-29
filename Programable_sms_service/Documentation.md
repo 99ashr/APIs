@@ -1,4 +1,9 @@
-All messages sent from my account
+#Twilio API
+***
+###🐇 Get Method:-
+[Retrieve Data](https://www.twilio.com/docs/sms/api/message-resource?code-sample=code-read-list-all-messages&code-language=Python&code-sdk-version=6.x)
 
-[Retrieve Data](https://api.twilio.com/2010-04-01/Accounts/AC0b57db73de30c7a002c67af0b8c9713e/Messages.json "Getting Data from api")
-
+---
+### 🐈  🐷 🐽      Post Data:-
+[Post Data](https://www.twilio.com/docs/sms/api/message-resource#create-a-message-resource)
+***
