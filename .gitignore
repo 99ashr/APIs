@@ -3,6 +3,5 @@ v_apis/
 **v_apis
 intro-to-apis-course/
 **intro-to-apis-course
-./APIs/flast_apis/.env.example
 *.env
 .env
